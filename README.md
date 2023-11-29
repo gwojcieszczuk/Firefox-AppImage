@@ -1,6 +1,6 @@
 ## Regular and ESR releases of Mozilla Firefox repackaged as AppImage
 
-[Download AppImages](https://app.inode.ws/index.php/s/Firefox-AppImage)
+[Download AppImages](https://webserver.inode.ws/Firefox-AppImage/)
 
 Source: https://ftp.mozilla.org/pub/firefox/releases/
 
